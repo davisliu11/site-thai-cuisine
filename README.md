@@ -1,1 +1,3 @@
-# site-thai-cuisine
+Tipparost Thai Restaurant
+
+https://thaicuisian.co.nz
