@@ -336,39 +336,6 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 
-@media (max-width: 1024px) {
-    .pricing.background_content {
-        background: url('https://farm5.staticflickr.com/4508/37536307136_f0debbd6da_b.jpg') no-repeat center center;
-        /*1024*/
-    }
-    .featured.background_content {
-        background: url('https://farm5.staticflickr.com/4480/23732506138_30f4d29b21_b.jpg') no-repeat center center;
-        /*1024*/
-    }
-}
-
-@media (max-width: 800px) {
-    .pricing.background_content {
-        background: url('https://farm5.staticflickr.com/4508/37536307136_f0debbd6da_c.jpg') no-repeat center center;
-        /*800*/
-    }
-    .featured.background_content {
-        background: url('https://farm5.staticflickr.com/4480/23732506138_30f4d29b21_c.jpg') no-repeat center center;
-        /*800*/
-    }
-}
-
-@media (max-width: 640) {
-    .pricing.background_content {
-        background: url('https://farm5.staticflickr.com/4508/37536307136_f0debbd6da_z.jpg') no-repeat center center;
-        /*640*/
-    }
-    .featured.background_content {
-        background: url('https://farm5.staticflickr.com/4480/23732506138_30f4d29b21_z.jpg') no-repeat center center;
-        /*640*/
-    }
-}
-
 
 /*========================
 DESCRIPTION BODY CONTENT
