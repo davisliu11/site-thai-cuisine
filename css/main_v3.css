@@ -316,13 +316,13 @@ INTRO CONTAINER
 }
 
 .beer.background_content {
-    background: url('../images/inside_1.jpg') no-repeat center center;
+    background: url('../images/internal_1.jpg') no-repeat center center;
     background-size: cover;
     background-position: 70% 50%;
 }
 
 .pricing.background_content {
-    background: url('../images/inside_2.jpg') no-repeat center center;
+    background: url('../images/internal_2.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -330,7 +330,7 @@ INTRO CONTAINER
 }
 
 .featured.background_content {
-    background: url('../images/inside_3.jpg') no-repeat center center;
+    background: url('../images/internal_3.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
