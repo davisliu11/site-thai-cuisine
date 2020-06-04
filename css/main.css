@@ -326,6 +326,7 @@ INTRO CONTAINER
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    height: 300px;
 }
 
 .featured.background_content {
@@ -440,10 +441,10 @@ FIRST FOOTER CONTENT
     text-decoration: none;
     font-size: 22px;
     /* letter-spacing: 0.200em; */
-    line-height: 1.400em;
+    /* line-height: 1.400em; */
     color: #fff;
     display: inline-block;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     /* width: 210px; */
 }
 
