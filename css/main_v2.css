@@ -322,7 +322,7 @@ INTRO CONTAINER
 }
 
 .pricing.background_content {
-    background: url('../images/cover_2.jpg') no-repeat center center;
+    background: url('../images/cover_2_1.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -330,7 +330,7 @@ INTRO CONTAINER
 }
 
 .featured.background_content {
-    background: url('../images/cover_3.jpg') no-repeat center center;
+    background: url('../images/cover_3_1.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
